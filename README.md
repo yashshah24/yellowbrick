@@ -45,7 +45,6 @@ Visualizers are estimators (objects that learn from data) whose primary objectiv
 - **Class Prediction Error**: shows error and support in classification
 - **Classification Report**: visual representation of precision, recall, and F1
 - **ROC/AUC Curves**: receiver operator characteristics and area under the curve
-- **Precision-Recall Curves**: precision vs recall for different probability thresholds
 - **Confusion Matrices**: visual description of class decision making
 - **Discrimination Threshold**: find a threshold that best separates binary classes
 
