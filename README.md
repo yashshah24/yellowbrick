@@ -79,7 +79,7 @@ And more! Visualizers are being added all the time, so be sure to check the exam
 
 ## Installing Yellowbrick
 
-Yellowbrick is compatible with Python 2.7 or later but it is preferred to use Python 3.5 or later to take full advantage of all functionality. Yellowbrick also depends on scikit-learn 0.18 or later and matplotlib 1.5 or later. The simplest way to install Yellowbrick is from PyPI with pip, Python's preferred package installer.
+Yellowbrick is compatible with Python 2.7 or later but it is preferred to use Python 3.5 or later to take full advantage of all functionality. Yellobrick depends on matplotlib 1.5 or later. The simplest way to install Yellowbrick is from PyPI with pip, Python's preferred package installer.
 
     $ pip install yellowbrick
 
