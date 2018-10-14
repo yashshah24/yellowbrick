@@ -37,7 +37,6 @@ Visualizers are estimators (objects that learn from data) whose primary objectiv
 - **PCA Projection**: projection of instances based on principal components
 - **Manifold Visualization**: high dimensional visualization with manifold learning
 - **Feature Importances**: rank features based on their in-model performance
-- **Recursive Feature Elimination**: find the best subset of features by importance
 - **Joint Plots**: direct data visualization with feature selection
 
 #### Classification Visualization
